@@ -1,2 +1,2 @@
-this is a file of b
-this IS A NEW FILE
+this iS a fILE oF b
+this is a new file b
